@@ -1,41 +1,22 @@
-# PI_Explorer
-PI_Explorer navigates personal information within a document file.
+## PI_Explorer
+파일 내에서 지정된 정규표현식과 일치하는 문자열을 추출합니다.
+
+기본적으로 개인정보와 관련된 문자열 정규식이 클래스가 포함되어 있습니다.
 
 
 
-
-# 개발 중 . . . . . .
-
-
-#How to use
-
-## pi_explorer
+## 사용법
+![image](https://user-images.githubusercontent.com/86182243/183288296-9c63e096-3eb1-4b46-9c89-210684858984.png)
 
 
+## 지원 문서 형식
+- Hangul
+- MS Word
+- PDF
+- 이 외 ut8-로 인코딩된 문자열
 
-## pi_regexp
-
-get_pi_regexps() : 한국어 정규식 목록을 얻어옵니다.
-* 주민등록번호
-* 여권번호
-* 외국인등록번호
-* 운전면허번호
-* 이름(한글, 영어)
-* 지번주소
-* 도로명주소
-* 핸드폰번호
-* 계좌번호
-* 건강보험번호
-* 신용카드번호
-* 자동차번호
-
-* url
-* 이메일 주소
-* IP 주소(v4, v6)
-* MAC 주소
-
-* 계정 및 비밀번호
-* 군번
-* 사업자 등록번호
-
-# 참고자료
+## 추가 예정
+- OCR 기능
+- GUI 
+- MS Excel 읽기
+- Powwer point 읽기
