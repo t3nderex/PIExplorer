@@ -13,7 +13,7 @@
 - Hangul
 - MS Word
 - PDF
-- 이 외 ut8-로 인코딩된 문자열
+- 이 외 ut8-로 인코딩된 Plain Text
 
 ## 추가 예정
 - OCR 기능
